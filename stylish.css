@@ -1,0 +1,29 @@
+h3 {
+    color: #c5910d;
+    font-size: xx-large;
+}
+
+p {
+    color: #ad180d;
+    background-color: chartreuse;
+    width: 50%;
+    font-weight: 900;
+    font-size: medium;
+    font-family: 'Lucida Sans Unicode';
+    
+}
+
+img {
+    width: 40%;
+    height: 15cm;
+}
+#cricketer{
+    color:blue;
+    background-color: #f8dede;
+    font-family: 'Segoe UI';
+    font-weight:500;
+}
+.details{
+    color:#ad180d;
+    
+}
